@@ -1,0 +1,19 @@
+{
+  "prediction": 1,
+  "confidence": 0.785,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.215,
+    0.785
+  ],
+  "timestamp": "2025-05-11T19:13:43.418749",
+  "model_version": "improved_job_fraud_detector_20250511_184435.pkl",
+  "text": "great job",
+  "text_hash": "5f50a51f078720f3a84e67809dc9cb7a831d5e5a66f9081c5a60c34fab26930e",
+  "session_id": "20250511191327-30316779"
+}

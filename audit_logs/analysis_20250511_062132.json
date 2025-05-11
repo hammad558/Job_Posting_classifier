@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9435139925900902,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9435139925900902,
+    0.05648600740990981
+  ],
+  "timestamp": "2025-05-11T06:21:32.201752",
+  "model_version": "fake_job_model.pkl",
+  "text": "bank manager at jupiter  ",
+  "text_hash": "074009ed8b01ecd7fc671878d840010933ff6fbe4d67fb1bcc983dde663a0451",
+  "session_id": "20250511061907"
+}

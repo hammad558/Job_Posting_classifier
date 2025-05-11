@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.8807418660796815,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.8807418660796815,
+    0.1192581339203185
+  ],
+  "timestamp": "2025-05-11T06:28:05.404127",
+  "model_version": "fake_job_model.pkl",
+  "text": "pay $99 to start working today ",
+  "text_hash": "cb331322dced458c02459769a2ae824fbec443637e3345761ed47ecb87a5fc6f",
+  "session_id": "20250511062615"
+}

@@ -1,0 +1,19 @@
+{
+  "prediction": 1,
+  "confidence": 0.915,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.085,
+    0.915
+  ],
+  "timestamp": "2025-05-11T19:05:55.284867",
+  "model_version": "improved_job_fraud_detector_20250511_184435.pkl",
+  "text": "gkgoog",
+  "text_hash": "8b1db8f306bc00ff22df649f8b73296fab7e5137ae63886af5d071d90183acd5",
+  "session_id": "20250511185517"
+}

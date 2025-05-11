@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9388625345821452,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9388625345821452,
+    0.06113746541785486
+  ],
+  "timestamp": "2025-05-11T06:19:16.222673",
+  "model_version": "fake_job_model.pkl",
+  "text": "wow",
+  "text_hash": "b6dc933311bc2357cc5fc636a4dbe41a01b7a33b583d043a7f870f3440697e27",
+  "session_id": "20250511061907"
+}

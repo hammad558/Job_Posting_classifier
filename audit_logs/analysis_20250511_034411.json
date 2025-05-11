@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9388625345821452,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9388625345821452,
+    0.06113746541785486
+  ],
+  "timestamp": "2025-05-11T03:44:11.806662",
+  "model_version": "fake_job_model.pkl",
+  "text": "ah ah ah , fuck fuck",
+  "text_hash": "7ec9a9e96e42e3fed37cf3dde463c0bd415eed1961a77e59593094aedc616fbd",
+  "session_id": "93502459a259dfe2b05ce7f8c540c3a5"
+}

@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9388625345821452,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9388625345821452,
+    0.06113746541785486
+  ],
+  "timestamp": "2025-05-11T03:33:27.099416",
+  "model_version": "fake_job_model.pkl",
+  "text": "fuck me",
+  "text_hash": "9cbedd8230a0c9e949b0dd438b3a6d8530791ec6c8f9732b6a36ce4853835d63",
+  "session_id": "session_1746915498"
+}

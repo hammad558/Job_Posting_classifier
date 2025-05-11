@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9547856445010585,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9547856445010585,
+    0.04521435549894146
+  ],
+  "timestamp": "2025-05-11T03:43:51.369549",
+  "model_version": "fake_job_model.pkl",
+  "text": "job : bank manager at sun",
+  "text_hash": "cea1c6893bb5a69c0a58c1d1c46e26a415fdcbabc0c8c3b31ca4cb22739a554c",
+  "session_id": "93502459a259dfe2b05ce7f8c540c3a5"
+}

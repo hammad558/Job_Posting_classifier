@@ -1,0 +1,19 @@
+{
+  "prediction": 0,
+  "confidence": 0.9647986510898632,
+  "risk_factors": {
+    "unrealistic_compensation": false,
+    "poor_grammar": false,
+    "upfront_payments": false,
+    "vague_description": true
+  },
+  "probabilities": [
+    0.9647986510898632,
+    0.03520134891013685
+  ],
+  "timestamp": "2025-05-11T05:49:26.912287",
+  "model_version": "fake_job_model.pkl",
+  "text": "Position: Senior Python Developer\nCompany: Quantum Innovations Inc.\nSalary: $160,000 - $190,000",
+  "text_hash": "82da3584ece55e7fdd78a49e8f0a63dc5a22f53baa5cc0e2698eabf8e17b3f1b",
+  "session_id": "20250511054904"
+}
