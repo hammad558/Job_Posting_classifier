@@ -3,4 +3,4 @@ joblib
 numpy
 pandas
 utils
-sklearn
+scikit-learn
